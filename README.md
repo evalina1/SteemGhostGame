@@ -30,3 +30,12 @@ link : https://play.google.com/store/apps/details?id=appinventor.ai_3rtuncnese.S
 
 Also the apk is in the GitHub. 
 link : https://github.com/firedreamgames/SteemGhostGame/blob/master/SteemGhost.apk
+
+## Files in the repostiory
+Readme - explanation
+
+steemghost.aia - AppInventor2 source file
+
+steemghost.apk - Install file - download it to Android and install
+
+steemghost-hi.mp4 - Video tutorial on gameplay
