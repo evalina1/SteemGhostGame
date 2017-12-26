@@ -131,4 +131,6 @@ steemghost.aia - AppInventor2 source file
 
 steemghost.apk - Install file - download it to Android and install
 
+index.html - HTML -JavaScript file
+
 steemghost-hi.mp4 - Video tutorial on gameplay
