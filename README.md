@@ -1,6 +1,6 @@
 
 ## Introduction
-A playable game on android platform made with [AppInventor2](ai2.appinventor.mit.edu) and javascript.
+A playable game on android platform made with [AppInventor2](http://ai2.appinventor.mit.edu) and javascript.
 This would be the first of its kind since it can post the high score to Steem at the end of the game depending on user request.
 
 ## Features
